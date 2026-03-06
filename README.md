@@ -70,4 +70,4 @@ Feed the current state into the trained neural network.
 Output a LONG, SHORT, or FLAT signal based on the AI's confidence threshold.
 
 ⚠️ Disclaimer 
-For educational and research purposes only. This software is not financial advice. Algorithmic trading involves significant risk, and reinforcement learning models are highly susceptible to overfitting historical data. Always test extensively on Paper Trading accounts before committing real capital. The authors are not responsible for any financial losses incurred while using this software
+For educational and research purposes only. This software is not financial advice. Algorithmic trading involves significant risk, and reinforcement learning models are highly susceptible to overfitting historical data. Always test extensively on Paper Trading accounts before committing real capital. The authors are not responsible for any financial losses incurred while using this software.
