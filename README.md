@@ -1,4 +1,5 @@
 📈 FinRL Day Trading Bot - SPY
+
 Authors: Yusuf Guler & Rahul Ghosh
 
 Date: March 2026
